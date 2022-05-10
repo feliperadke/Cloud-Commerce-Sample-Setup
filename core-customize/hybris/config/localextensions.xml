@@ -160,7 +160,7 @@
 	  <extension name= 'outboundservices' />
 	  <extension name= 'outboundsync' />
 	  <extension name= 'outboundsyncbackoffice' />
-	  <extension name= 'webhookbackoffice' />
+	  <!--extension name= 'webhookbackoffice' /-->
 	  <extension name= 'webhookservices' />
 	  <extension name= 'messagecentercsfacades' />
 	  <extension name= 'messagecentercsocc' />
