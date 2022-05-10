@@ -202,7 +202,7 @@
 	  <extension name= 'personalizationpromotionssmartedit' />
 	  <extension name= 'personalizationpromotionsweb' />
 	  <extension name= 'personalizationsearch' />
-	  <extension name= 'personalizationsearchbackoffice' />
+	  <!--extension name= 'personalizationsearchbackoffice' /-->
 	  <extension name= 'personalizationsearchsamplesaddon' />
 	  <extension name= 'personalizationsearchsmartedit' />
 	  <extension name= 'personalizationsearchweb' />
