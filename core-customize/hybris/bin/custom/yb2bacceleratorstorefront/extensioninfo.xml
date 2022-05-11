@@ -12,10 +12,7 @@
                 		
         
         <requires-extension name="yacceleratorfacades"/>
-     
 
-        <requires-extension name="commerceservices"/>
-                		
         
         <webmodule jspcompile="false" webroot="/yb2bacceleratorstorefront"/>
                 		
